@@ -29,6 +29,7 @@ or locally via terminal:
 ```bash
 javac Applicant.java Admissions.java Main.java
 java Main
+```
 
 ## Answers
 
