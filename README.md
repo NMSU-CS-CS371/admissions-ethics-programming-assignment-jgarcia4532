@@ -56,46 +56,46 @@ Most of these are along the same lines, but I beleive that no matter were you co
   - Recommendation: I also excluded this even though its not sentive. I just thought it better used in a more professional setting and not academic.
 
 * Should “legacy” still carry a positive weight?
-In my opinion "legacy" should not be considered or weighted in at all. 
+  - In my opinion "legacy" should not be considered or weighted in at all. 
 
 * What other features (e.g., proximity, essay strength, disability) might you add or adjust?
-Having added/adjusted all features included in the data I will summarize it to say that I put more into the values under blind scoring and less into the aware score.
+  - Having added/adjusted all features included in the data I will summarize it to say that I put more into the values under blind scoring and less into the aware score.
 
 ### Fairness & Outcomes
 * Between the blind and aware models, which applicants benefited or lost out?
-Interestingly enough between the two models that I modifided, there is no difference between admissions. This is because I mostly prioritized the blind model with few benefiting from the aware to a notable degree.
+  - Interestingly enough between the two models that I modifided, there is no difference between admissions. This is because I mostly prioritized the blind model with few benefiting from the aware to a notable degree.
 
 * Which applicants specifically benefited from the aware model?
-None did based off of the test, but there are slight bumps to those with low income, disability, and a young age.
+  - None did based off of the test, but there are slight bumps to those with low income, disability, and a young age.
 
 * Does adding income or first-generation status make the system fairer or less fair? Why?
-I feel like adding income and first generation status to the system slightly messes with the fairness of the system as they are not really things people can help change in a lot of situations.
+  - I feel like adding income and first generation status to the system slightly messes with the fairness of the system as they are not really things people can help change in a lot of situations.
 
 * Which model feels more fair overall, and why?
-I like the blind model for fairness as it evaluates you and your capabilities, not who you are or where you came from.
+  - I like the blind model for fairness as it evaluates you and your capabilities, not who you are or where you came from.
 
 ### Transparency & Accountability
 * How transparent is your algorithm?
-The algorithm in use is transparent with favoring the blind model for those that show promising GPAs and test results.
+  - The algorithm in use is transparent with favoring the blind model for those that show promising GPAs and test results.
 
 * Could you clearly explain a rejection to an applicant?
-Most likely, yes. If they do not have high enough results they are not accepeted.
+  - Most likely, yes. If they do not have high enough results they are not accepeted.
 
 * Would you feel comfortable if this algorithm evaluated your application? Why or why not?
-I do not see why not. I may not get in, but to those who do, it is fairly based on their efforts they put forth in school. 
+  - I do not see why not. I may not get in, but to those who do, it is fairly based on their efforts they put forth in school. 
 
 ### Broader Implications
 * What risks might arise if such an algorithm were used in real admissions?
-The number of admissions would be significantly lower as compared to some other algorithms. This runs the risk of under shooting admission goals and potentially causing completely capable students that may have struggled in high school with being rejected.
+  - The number of admissions would be significantly lower as compared to some other algorithms. This runs the risk of under shooting admission goals and potentially causing completely capable students that may have struggled in high school with being rejected.
 
 * What real-world parallels exist (e.g., hiring, policing, scholarships)?
-I am not entirely sure, but probably higher end colleges.
+  - I am not entirely sure, but probably higher end colleges.
 
 * What does this exercise reveal about fairness in algorithmic decision systems?
-This exercise speaks to fairness in algorithmic decisions as it provides important insights to its impacts on crucial systems. Trying to make a "fair" algorithm is not easy and heavily subject to developer bias.
+  - This exercise speaks to fairness in algorithmic decisions as it provides important insights to its impacts on crucial systems. Trying to make a "fair" algorithm is not easy and heavily subject to developer bias.
 
 * Can algorithms ever be truly fair, or do they just shift where bias appears?
-No algorithms can never be truely fair and will always some what be influenced by bias. In some cases they might be considered to be fair to one person or in one situation, but never univserally. This is because what we consider "fair" differs from person to person and even situation to situation.
+  - No algorithms can never be truely fair and will always some what be influenced by bias. In some cases they might be considered to be fair to one person or in one situation, but never univserally. This is because what we consider "fair" differs from person to person and even situation to situation.
 
 * How should fairness and accountability be balanced in automated decisions?
-Fairness and accountability should be balanced based off of the system that is in need of automated decisions. In some cases fairness should be prioritized and others accountability. Overall I look more toward fairness as I feel like if everyone has a high level of commitment, accountability results should hopefully level. Although in a real system a bit more tweeking is needed.
+  - Fairness and accountability should be balanced based off of the system that is in need of automated decisions. In some cases fairness should be prioritized and others accountability. Overall I look more toward fairness as I feel like if everyone has a high level of commitment, accountability results should hopefully level. Although in a real system a bit more tweeking is needed.
